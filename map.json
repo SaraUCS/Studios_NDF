@@ -14953,10 +14953,6 @@
          "tilecount":198,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":12236,
-         "source":"11_Halloween_32x32.tsx"
         }],
  "tilewidth":32,
  "type":"map",
