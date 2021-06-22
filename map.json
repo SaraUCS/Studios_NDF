@@ -169,7 +169,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.staging.workadventu.re\/_\/global\/andreasucs.github.io\/ndf_festivalmap\/map.json"
+                 "value":"https:\/\/play.staging.workadventu.re\/_\/global\/andreasucs.github.io\/ndf_festivalmap\/map.json#start_ndf_studios"
                 }],
          "type":"tilelayer",
          "visible":true,
