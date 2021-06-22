@@ -39,6 +39,12 @@
          "id":25,
          "name":"Zoom_Meeting_StudioH",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/99736684207?pwd=bGdkczFlRU8waGNUdnpEeDlpTkFzdz09"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -55,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/zoom.us\/j\/95427186883?pwd=Tlp4Z0VXTUJZLzFMR0NGUTRUeVNIQT09"
                 }],
          "type":"tilelayer",
          "visible":true,
