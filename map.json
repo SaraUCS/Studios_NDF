@@ -165,6 +165,12 @@
          "id":16,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.staging.workadventu.re\/_\/global\/saraucs.github.io\/ndf_studios\/map.json#start_ndf_studios"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
