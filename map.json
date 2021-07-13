@@ -75,6 +75,12 @@
          "id":23,
          "name":"Zoom_Meeting_StudioF",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/95415325556?pwd=cHpSdkNmN3cyUFg1QkF1bVRGSGtsdz09"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -87,6 +93,12 @@
          "id":22,
          "name":"Zoom_Meeting_StudioE",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/96827672481?pwd=SXlhdTh0UkdjMGtRSzNaR0dWMEttUT09"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -99,6 +111,12 @@
          "id":21,
          "name":"Zoom_Meeting_StudioD",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/zoom.us\/j\/92666742557?pwd=bzdIK1JNN0c5REFjcE50VGhSRHRqZz09"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -111,6 +129,12 @@
          "id":20,
          "name":"Zoom_Meeting_StudioC",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/us06web.zoom.us\/j\/87466330376?pwd=eGlLR1Znc0h1Mmx4UnMyUE5VUTNRUT09#success"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -127,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/us06web.zoom.us\/j\/82812599372?pwd=VnRuVjM2OUZTZmZ3WWJvczBvbjlEQT09"
+                 "value":"https:\/\/us06web.zoom.us\/j\/88933571890?pwd=ZTk3WGxMbklCY0VwVGYwc1VnT3Y1dz09#success"
                 }],
          "type":"tilelayer",
          "visible":true,
